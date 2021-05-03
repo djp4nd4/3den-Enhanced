@@ -36,7 +36,7 @@
   </Key>
   <Key ID="STR_ENH_DYNAMICSKILL_SKILLMIN_DISPLAYNAME">
     <English>Min. Skill</English>
-    <Italian>Abilità minima.</Italian>
+    <Italian>Abilità minima</Italian>
     <German>Min. Fähigkeit</German>
     <Czech>Minimální zkušenost</Czech>
     <French>Compétence min.</French>
@@ -58,7 +58,7 @@
   </Key>
   <Key ID="STR_ENH_DYNAMICSKILL_SKILLMAX_DISPLAYNAME">
     <English>Max. Skill</English>
-    <Italian>Abilità Massima.</Italian>
+    <Italian>Abilità Massima</Italian>
     <German>Max. Fähigkeit</German>
     <Czech>Maximální zkušenost</Czech>
     <French>Compétence max.</French>
@@ -69,7 +69,7 @@
   </Key>
   <Key ID="STR_ENH_DYNAMICSKILL_SKILLAIMMAX_DISPLAYNAME">
     <English>Max. Aiming Skill</English>
-    <Italian>Abilità di mira massima.</Italian>
+    <Italian>Abilità di mira massima</Italian>
     <German>Max. Zielfähigkeit</German>
     <Czech>Maximální zkušenost s mířením</Czech>
     <French>Compétence de visée max.</French>
@@ -2084,7 +2084,7 @@
   </Key>
   <Key ID="STR_ENH_BRIEFINGEDITOR">
     <English>Briefing Editor</English>
-    <Italian>Editoe del Briefing</Italian>
+    <Italian>Editor del Briefing</Italian>
     <Czech>Editor brífinku</Czech>
     <French>Éditeur de Briefing</French>
     <Spanish>Editor de briefing</Spanish>
@@ -2117,6 +2117,7 @@
   </Key>
   <Key ID="STR_ENH_3DENRADIO_END">
     <English>Ending</English>
+    <Italian>Fine</Italian>
     <German>Ende</German>
     <Spanish>Final</Spanish>
     <Chinesesimp>结束</Chinesesimp>
@@ -2407,6 +2408,7 @@
   </Key>
   <Key ID="STR_ENH_CONTEXTMENU_LOGVARNAMES">
     <English>Log Variable Names to Clipboard</English>
+    <Italian>Copia nome variabile negli appunti</Italian>
     <German>Variablennamen in Zwischenablage kopieren</German>
     <Spanish>Registrar nombres de variables al portapapeles</Spanish>
     <Chinesesimp>将变量名称记录到剪贴板</Chinesesimp>
@@ -2446,7 +2448,7 @@
   </Key>
   <Key ID="STR_ENH_CONTEXTMENU_LOGGRIDPOSITION">
     <English>Log Grid Position to Clipboard</English>
-    <Italian>Registra la posisione della griglia sulla lavagnetta.</Italian>
+    <Italian>Registra la posisione della griglia sulla lavagnetta</Italian>
     <German>Rasterposition in Zwischenablage kopieren</German>
     <Chinesesimp>记录网格位置</Chinesesimp>
     <Spanish>Posición de la cuadrícula de registro al portapeles</Spanish>
@@ -2457,6 +2459,7 @@
   </Key>
   <Key ID="STR_ENH_RESPAWNTICKETS_BLUFOR_DISPLAYNAME">
     <English>Respawn Tickets BLUFOR</English>
+    <Italian>Ticket riapparizione BLUFOR</Italian>
     <Czech>Počet respawn tiketů BLUFOR</Czech>
     <French>Tickets de Réapparition BLUFOR</French>
     <Spanish>Tickets de respawn BLUEFOR</Spanish>
@@ -2467,6 +2470,7 @@
   </Key>
   <Key ID="STR_ENH_RESPAWNTICKETS_INDFOR_DISPLAYNAME">
     <English>Respawn Tickets INDFOR</English>
+    <Italian>Ticket riapparizione INDFOR</Italian>
     <Czech>Počet respawn tiketů INDFOR</Czech>
     <French>Tickets de Réapparition INDFOR</French>
     <Spanish>Tickets de respawn INDFOR</Spanish>
@@ -2477,6 +2481,7 @@
   </Key>
   <Key ID="STR_ENH_RESPAWNTICKETS_OPFOR_DISPLAYNAME">
     <English>Respawn Tickets OPFOR</English>
+    <Italian>Ticket riapparizione OPFOR</Italian>
     <Czech>Počet respawn tiketů OPFOR</Czech>
     <French>Tickets de Réapparition OPFOR</French>
     <Spanish>Tickets de respawn (OPFOR)</Spanish>
@@ -2487,6 +2492,7 @@
   </Key>
   <Key ID="STR_ENH_RESPAWNTICKETS_CIVFOR_DISPLAYNAME">
     <English>Respawn Tickets CIVFOR</English>
+    <Italian>Ticket riapparizione CIVFOR</Italian>
     <Czech>Počet respawn tiketů CIVFOR</Czech>
     <French>Tickets de Réapparition CIVFOR</French>
     <Spanish>Tickets de respawn CIVFOR</Spanish>
@@ -2497,6 +2503,7 @@
   </Key>
   <Key ID="STR_ENH_SAVELOADOUT_DISPLAYNAME">
     <English>Save Loadout</English>
+    <Italian>Salva equipaggiamento</Italian>
     <Czech>Uložit výstroj</Czech>
     <French>Sauvegarder l'équipement</French>
     <Spanish>Guardar equipamiento</Spanish>
@@ -2507,6 +2514,7 @@
   </Key>
   <Key ID="STR_ENH_SAVELOADOUT_TOOLTIP">
     <English>Restores the loadout on respawn.</English>
+    <Italian>Ripristina equipaggiamento al respawn</Italian>
     <Czech>Obnoví výstroj při respawnu.</Czech>
     <French>Restaure l'équipement lors de la réapparition.</French>
     <Spanish>Restaurar equipamiento en el respawn</Spanish>
@@ -2517,6 +2525,7 @@
   </Key>
   <Key ID="STR_ENH_VIEWDISTANCE_DISPLAYNAME">
     <English>View Distance</English>
+    <Italian>Distanza di visualizzazione</Italian>
     <Czech>Vykreslovací vzdálenost</Czech>
     <French>Distance d'affichage</French>
     <Spanish>Distancia de visión</Spanish>
@@ -2527,6 +2536,7 @@
   </Key>
   <Key ID="STR_ENH_VIEWDISTANCE_TOOLTIP">
     <English>Keep in mind that this setting can be limited bei either the server or the player's visual settings. Additionally, the object view distance cannot be higher than the view distance.</English>
+    <Italian>Ricorda che questo settaggi può essere limitato dai settaggi visuale sia dal server che dal giocatore</Italian>
     <Czech>Mějte na paměti že toto nastavení může být omezeno nastavením na straně serveru či hráče. Dále pak, vykreslovací vzdálenost objektu nesmí být vyšší než celková vykreslovací vzdálenost</Czech>
     <French>Attention : ces paramètres peuvent être limités par le serveur et/ou par les paramètres d'affichage des joueurs. La distance d'affichage des objets ne peut être supérieure à la distance d'affichage globale.</French>
     <Spanish>Tenga en cuenta que esta configuración puede estar limitada tanto en el servidor como en la configuración visual del jugador. Además, la distancia de visión de objetos no puede ser mayor que la distancia de visión.</Spanish>
@@ -2537,6 +2547,7 @@
   </Key>
   <Key ID="STR_ENH_PLACEMENTTOOLS_CIRCULAR_HEADER">
     <English>Circular Pattern</English>
+    <Italian>Forma circolare</Italian>
     <Chinesesimp>圆形图案</Chinesesimp>
     <Czech>Kruhový vzor</Czech>
     <French>En cercle</French>
@@ -2547,6 +2558,7 @@
   </Key>
   <Key ID="STR_ENH_AIRDROP_CONDITION_TOOLTIP">
     <English>This condition has to be become true during the mission for the airdrop to start.</English>
+    <Italian>Questa condizione deve diventare vera durante la missione per la partenza del rifornimento aereo</Italian>
     <Czech>Tato podmínka se musí stát pravdivou (true) během mise aby výsadek mohl začít.</Czech>
     <French>Cette condition doit être remplie au cours de la mission pour que le largage commence.</French>
     <German>Diese Bedingung muss während der Mission erfüllt werden damit Einheiten abgeworfen werden.</German>
@@ -2557,6 +2569,7 @@
   </Key>
   <Key ID="STR_ENH_AIRDROP_CLASSES_TOOLTIP">
     <English>Classes of the soldiers which should be dropped in format:\nClassname_1 Classname_2 Classname_n.</English>
+    <Italian>Classi di unità che dovranno essere scaricate nel formato:\nClassname_1 Classname_2 Classname_n.</Italian>
     <Czech>Třídy vojáků kteří budou shozeni výsadkem ve formátu:\nClassname_1 Classname_2 Classname_n.</Czech>
     <Spanish>Clases de los soldados que deben soltarse en formato:\nClassname_1 Classname_2 Classname_n.</Spanish>
     <German>Klassennamen der Einheiten die abspringen sollen im Format:\nClassname_1 Classname_2 Classname_n. </German>
@@ -2581,6 +2594,7 @@
   </Key>
   <Key ID="STR_ENH_INTROTEXT_DESCRIPTION">
     <English>Shows an animated text. Can be used to display mission name.</English>
+    <Italian>Mostra un testo animato. Può essere usato per mostrare il titolo della missione.</Italian>
     <Czech>Zobrazí animovaný text. Nemůže být použitý pro zobrazení názvu mise.</Czech>
     <Spanish>Muestra un texto animado. Se puede usar para mostrar el nombre de la misión.</Spanish>
     <German>Zeigt einen animierten Text. Kann dazu verwendet werden den Missionsname bei Start der Mission darzustellen.</German>
@@ -2589,6 +2603,7 @@
   </Key>
   <Key ID="STR_ENH_GROUPMARKER_DESCRIPTION">
     <English>Shows the groups position on the map.The position is updated every second. If the group becomes empty, the marker gets deleted. The update process can be paused by setting the variable 'ENH_GroupMarker_Update' in the group's namespace to false.</English>
+    <Italian>Mostra la posizione dei gruppi in mappa.La posizione è aggiornata ogni secondo. Se il gruppo diventa vuoto, il marker viene cancellato. L'aggiornamento può essere messo in pausa mettendo a true la variabile 'ENH_GroupMarker_Update'</Italian>
     <Czech>Zobrazí pozici skupiny na mapě. Pozice je aktualizována každou sekundu. Pokud se skupina stane prázdnou, značka se vymaže. Proces aktualizace pozice může být pozastaven nastavením proměnné "ENH_GroupMarker_Update" v jmenném prostoru skupin na nepravdu (false).Hodnota musí být název třídy značky z CfgMarkers.</Czech>
     <German>Zeigt die Gruppenposition auf der Karte. Die Position wird sekündlich aktualisiert. Falls die Gruppe sich auflöst, wird der Marker gelöscht. Das Aktualisieren des Markers kann durch das Setzen der Variablen 'ENH_GroupMarker_Update' im namespace der Gruppe zu 'false' pausiert werden.</German>
     <Polish>Pokazuje pozycje grupy na mapie. Pozycja jest aktualizowana co sekunde. Jeżeli grupa stanie się pusta, to marker zostanie usunięty. Aktualizacja może byc zatrzymana poprzez ustawienie zmiennej 'ENH_GroupMarker_Update' w 'namespace' na 'false'.</Polish>
@@ -2599,6 +2614,7 @@
   </Key>
   <Key ID="STR_ENH_MISSIONENDING_CASUALTIES_DESCRIPTION">
     <English>Ends the mission with custom ending if a certain count of entities of given side was killed. Can be used to fail mission for civilian casualties. In Multiplayer, the mission will be ended for all clients. Custom briefing have to be define in mission config.</English>
+    <Italian>Termina la missione con un finale personalizzato se il conto di unità di una fazione viene uccisa. Può essere usato per dichiare fallita la missione alla morte di civili. In multigiocatore, la missione viene terminata per tutti i client. Il finale personalizzato deve essere definito nel file di configurazione missione.</Italian>
     <Spanish>Finaliza la misión con un final personalizado si una cierta cantidad de entidades de un bando del bando indicado muere. Puede ser usado para fallar la misión Se puede utilizar para fallar la misión por víctimas civiles. En multijugador, la misión finalizará para todos los clientes. Los informes personalizados deben definirse en la configuración de la misión.</Spanish>
     <German>Beendet die Mission mit einem benutzerdefinierten Ende, wenn eine definierte Anzahl von Einheiten einer bestimmten Seite getötet wurden. Kann dazu verwendet werden die Mission zu beenden wenn zu viele zivile Opfer zu beklagen sind. Benutzerdefinierte Einsatzbesprechnungen müssen in der Missionskonfig definiert werden.</German>
     <French>Termine la mission avec une fin de mission personnalisée si un certain nombre d'unités d'un certain camp sont morts. Peut être employée pour l'échec d'une mission en cas de pertes civiles. En multijoueur, la mission sera terminée pour tous les clients. Le débriefing personnalisé doit être défini dans la configuration de la mission.</French>
@@ -2606,6 +2622,7 @@
   </Key>
   <Key ID="STR_ENH_GARRISON_HEADER">
     <English>Garrison Buildings</English>
+    <Italian>Presidia edifici</Italian>
     <Chinesesimp>驻军建筑物</Chinesesimp>
     <Czech>Obsadit budovy</Czech>
     <French>Placer en garnison</French>
@@ -2616,7 +2633,8 @@
   </Key>
   <Key ID="STR_ENH_TOGGLEAIFEATURES_NOTIFICATION">
     <English>AI features %1.</English>
-    <German>KI Funktionen%1</German>
+    <Italian>Caratteristiche AI %1</Italian>
+    <German>KI Funktionen %1</German>
     <Spanish>Características IA %1.</Spanish>
     <French>Fonctionnalités IA %1.</French>
     <Chinesesimp>AI特性 %1.</Chinesesimp>
@@ -2644,6 +2662,7 @@
   </Key>
   <Key ID="STR_ENH_SPR_RULESET_RANDOMPOSITION">
     <English>Respawn at random Respawn Position</English>
+    <Italian>Riappari in una posizione di riapparizione casuale</Italian>
     <German>Bei einer willkürlichen Respawn-Position wiedereinsteigen</German>
     <Spanish>Reaparecer en una posición de reaparición aleatoria</Spanish>
     <French>Réapparaître à un point de réapparition aléatoire</French>
@@ -2651,6 +2670,7 @@
   </Key>
   <Key ID="STR_ENH_SPR">
     <English>Single Player Respawn</English>
+    <Italian>Riapparizione giocatore singolo</Italian>
     <German>Einzelspieler-Respawn</German>
     <Spanish>Reaparición de un solo jugador</Spanish>
     <French>Réapparition en solo</French>
@@ -2666,7 +2686,7 @@
     <Chinesesimp>空的建筑物位置不足，请增加半径或覆盖范围。</Chinesesimp>
   </Key>
   <Key ID="STR_ENH_PLACEMENTTOOLS_FILLAREA_HEADER">
-    <English>Fill Area </English>
+    <English>Fill Area</English>
     <Italian>Area di riempimento</Italian>
     <Czech>Vyplnit oblast</Czech>
     <French>Remplissage de zone</French>
@@ -2689,7 +2709,7 @@
   </Key>
   <Key ID="STR_ENH_PLACEMENTTOOLS_LINEPATTERN_HEADER">
     <English>Line Pattern</English>
-    <Italian>Modello di Linea</Italian>
+    <Italian>Forma lineare</Italian>
     <Czech>Zobrazit linie</Czech>
     <French>Aligner</French>
     <Spanish>En línea</Spanish>
@@ -2800,7 +2820,7 @@
   </Key>
   <Key ID="STR_ENH_TEXTUREFINDER">
     <English>Texture Finder</English>
-    <Italian>Cercatore di Texture</Italian>
+    <Italian>Cerca texture</Italian>
     <Czech>Vyhledávač textur</Czech>
     <German>Texturen finden</German>
     <Chinesesimp>纹理查找器</Chinesesimp>
@@ -3035,7 +3055,7 @@
   </Key>
   <Key ID="STR_ENH_TOOLS_TEXTUREFINDER">
     <English>Texture Finder</English>
-    <Italian>Cercatore di Texture</Italian>
+    <Italian>Cerca texture</Italian>
     <Czech>Vyhledávač textur</Czech>
     <German>Texturen finden</German>
     <Chinesesimp>纹理查找器</Chinesesimp>
